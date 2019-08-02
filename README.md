@@ -8,6 +8,7 @@ Rails is a web-application framework that includes everything needed to create d
 * System dependencies: nokogiri, bundler, and yarn
 
 * Production
+
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
